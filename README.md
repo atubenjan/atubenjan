@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/atubenjan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atubenjan" alt="atubenjan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ospsolutions" target="blank"><img src="https://img.shields.io/twitter/follow/atubenjan?logo=twitter&style=for-the-badge" alt="atubenjan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/atubenjan" target="blank"><img src="https://img.shields.io/twitter/follow/atubenjan?logo=twitter&style=for-the-badge" alt="atubenjan" /></a> </p>
 
 - 🔭 I’m currently working on [Gosente Payment Gateway](https://gosente.com)
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **PHP,React-Native,React,VueJs,Angular, Python, Flask,Django,Julia Flutter, C, Go**
 
-- 📫 How to reach me **osp123ug@gmail.com**
+- 📫 How to reach me **atubenjanbenjaminm@gmail.com**
 
 - 📄 Know about my experiences [https://atubenjan.com/resume](https://atubenjan.com/resume)
 
