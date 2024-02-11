@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ATUGONZA BENJAMIN</h1>
+<h1 align="center">Hi 👋, I'm Atugonza Benjamin Mukindo</h1>
 <h3 align="center">A passionate Full Stack Developer from Uganda</h3>
 
 <p align="left"> <a href="https://github.com/atubenjan/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atubenjan" alt="atubenjan" /></a> </p>
