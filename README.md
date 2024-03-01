@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Gosente Payment Gateway](https://gosente.com)
 
-- 🌱 I’m currently learning Data Science **Python, Primevue,Pyramid, Tensorflow and Keras,Matplotlib**
+- 🌱 I’m currently learning Data Science **Python, Primevue,Pyramid,Angular**
 
 - 👯 🔭 I’m currently working on [Yoola Bulky SMS APIs](https://yoolasms.com)
 
